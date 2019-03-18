@@ -19,12 +19,12 @@ sidebar-avatar: /img/sonorou-headImg.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     Sonorou
-zhihu_username:     Sonorou
+#weibo_username:
+#zhihu_username:
 #github_username:    fsoooo
-jianshu_username:   Sonorou
+#jianshu_username:
 #gitee_username: wangslei
-twitter_username:   Sonorou #https://twitter.com/fstoooo
+#twitter_username:    #https://twitter.com/fstoooo
 #instagram_username:   fstoooo  #https://www.instagram.com/fstoooo
 #facebook_username:   fstoooo   #https://www.facebook.com/fsoooo
 
