@@ -102,10 +102,7 @@ service-worker: true
 # Friends
 friends: [
 {
-  title: "简书·Sonorou",
-  href: "https://www.jianshu.com/u/910c6f95a495"
-},{
-  title: "码云·Sonorou",
-  href: "https://gitee.com/Sonorou"
+  title: "CSDN·sonorou",
+  href: "https://blog.csdn.net/weixin_38806135"
 }
 ]
